@@ -6,7 +6,7 @@ The goal of this project is to use CycleGAN, a type of Generative Adversarial Ne
 convert original images to Monet-style paintings. This project was motivated by the desire to
 explore the capabilities of GANs in image-to-image translation tasks, as well as the potential for
 using GANs to create artwork in different styles.
-
+<img width="646" alt="image" src="https://github.com/user-attachments/assets/eb74ebab-f3bd-4353-9052-3cf4922325f8">
 ### Tools and Technologies:
 
 ● Jupyter Notebook
@@ -42,8 +42,8 @@ cycle-consistency loss, while the discriminator objective function is based sole
 loss.
 
 ### Results:
-<img width="646" alt="image" src="https://github.com/user-attachments/assets/eb74ebab-f3bd-4353-9052-3cf4922325f8">
 
+<img width="571" alt="image" src="https://github.com/user-attachments/assets/c7784e2e-a6fe-4b6b-ae9a-e93cdb7bce53">
 
 The trained CycleGAN model was able to successfully convert original photographs to
 Monet-style paintings, producing visually pleasing and realistic results. Some of the limitations
