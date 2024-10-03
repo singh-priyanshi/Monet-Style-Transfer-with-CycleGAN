@@ -42,6 +42,8 @@ cycle-consistency loss, while the discriminator objective function is based sole
 loss.
 
 ### Results:
+<img width="646" alt="image" src="https://github.com/user-attachments/assets/eb74ebab-f3bd-4353-9052-3cf4922325f8">
+
 
 The trained CycleGAN model was able to successfully convert original photographs to
 Monet-style paintings, producing visually pleasing and realistic results. Some of the limitations
